@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stratetia(wrorzec)", "Stratetia(wrorzec)\Stratetia(wrorzec).csproj", "{9C9BE4A1-7321-4C41-851E-AD6583E8E618}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library2", "Library2\Library2.csproj", "{DE5FF5DC-75A1-462F-8880-681D31CB89A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C9BE4A1-7321-4C41-851E-AD6583E8E618}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C9BE4A1-7321-4C41-851E-AD6583E8E618}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C9BE4A1-7321-4C41-851E-AD6583E8E618}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C9BE4A1-7321-4C41-851E-AD6583E8E618}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE5FF5DC-75A1-462F-8880-681D31CB89A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE5FF5DC-75A1-462F-8880-681D31CB89A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE5FF5DC-75A1-462F-8880-681D31CB89A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE5FF5DC-75A1-462F-8880-681D31CB89A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

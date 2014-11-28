@@ -1,0 +1,5 @@
+C:\Users\Amaterasu\Desktop\Ogarnianie\Ćwiczenia\Stratetia(wrorzec)\Library2\obj\Debug\Library2.csprojResolveAssemblyReference.cache
+C:\Users\Amaterasu\Desktop\Ogarnianie\Ćwiczenia\Stratetia(wrorzec)\Library2\bin\Debug\Library2.dll
+C:\Users\Amaterasu\Desktop\Ogarnianie\Ćwiczenia\Stratetia(wrorzec)\Library2\bin\Debug\Library2.pdb
+C:\Users\Amaterasu\Desktop\Ogarnianie\Ćwiczenia\Stratetia(wrorzec)\Library2\obj\Debug\Library2.dll
+C:\Users\Amaterasu\Desktop\Ogarnianie\Ćwiczenia\Stratetia(wrorzec)\Library2\obj\Debug\Library2.pdb
